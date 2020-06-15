@@ -1,0 +1,27 @@
+.navbar-brand {
+    background-color:blue ;
+    Color:white;
+    float: left;
+}
+.navbar-nav {
+    float: right;
+    margin-left: 85%;
+    color: gray;
+}
+.card-title{margin-top: 15px;}
+
+.container{float: left;
+height: 100%;}
+
+
+
+footer {
+    background-color: gray;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    }
+
+.form-group{margin-top: 10px;}
+
